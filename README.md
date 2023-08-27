@@ -2,7 +2,6 @@
 FULL STACK TEACHER PORTAL WEBSITE
 
 ![Screenshot (42)](https://github.com/Ethicker018/Teacher-Portal/assets/71578999/3dff1244-3a86-4d04-831a-e543af784148)
-![Screenshot (43)](https://github.com/Ethicker018/Teacher-Portal/assets/71578999/71bdf91e-78a7-4095-8c2d-b9408067ffde)
 ![Screenshot (44)](https://github.com/Ethicker018/Teacher-Portal/assets/71578999/05648744-f5eb-4359-9ab9-8095d3a1cb8f)
 ![Screenshot (45)](https://github.com/Ethicker018/Teacher-Portal/assets/71578999/f8f91a12-7394-4656-9eab-5070feb1865a)
 ![Screenshot (46)](https://github.com/Ethicker018/Teacher-Portal/assets/71578999/6fea675c-061b-47fa-b312-6678e7975d9f)
