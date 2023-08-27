@@ -1,0 +1,2 @@
+# Teacher-Portal
+This is the FULL STACK TEACHER PORTAL WEBSITE
